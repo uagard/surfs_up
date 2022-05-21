@@ -36,9 +36,4 @@ I ran the statistical studies for the temperatures between the month of June and
 
 Based off of the temperature data provided, it can be concluded that Hawaii is an excellent place to open our new business venture. The temperatures are pleasant and warm year round with averages of about 75 degrees at the height of summer and about 71 degrees at the depths of winter.  It is a belief that locals and tourists will be at the beaches enjoying these conditions and relaxing year-round. This will in turn provided our business with a consistent customer base.
 
-Another factor to keep in mind when looking at potential vendor locations is rain. THe possibility of excessive rain can prevent people from heading out to the beach. There were queries created for the months of June and December. These quereies showed the precipitation recordings at our target location (station USC00519281).  This data will be used in order to ensure we are making the correct data-based decision for our venture location.
-
-
-### Conclusion
-
-The precipitation histogram for the month of June shows 120 instances of no precipitation with only a few occurances of more than 1 inch of rain.  The December histogram shows similar results with over 140 instances of no precipitation, but more instances of precipitation exceeding 1 inch of rain.  Nonetheless, these precipitation charts support our original temperature-based conclusion that Hawaii, and in particular our target location, is an ideal location for our venture.
+Another factor to keep in mind when looking at potential vendor locations is rain. The possibility of excessive rain can prevent people from heading out to the beach. There were queries created for the months of June and December. These quereies showed the precipitation recordings at our target location (station USC00519281).  This data will be used in order to ensure we are making the correct data-based decision for our venture location.
