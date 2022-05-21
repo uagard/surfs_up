@@ -16,27 +16,27 @@ While on vacation in Hawaii, we developed a passion for surfing and would want t
 
 ## Observations
 
-I ran statistical studies on the temperature between June and December to get a brief glimpse of the lowest, maximum, and average temperatures at different periods of the year. The following are the findings of these statistical studies (shown below):
+I ran the statistical studies for the temperatures between the month of June and December. This was done in order to get an understanding of the lowest, maximum, and average temperatures at different times of the year. Below is the findings of these statistical studies:
 
 -  The average temperature in June was about 75 degrees, with a highest of 85 degrees and a lowest of 64 degrees.
 -  The average temperature in December was about 71 degrees, with a high of 83 degrees and a low of 56 degrees.
 -  The temperature figures for both months were closely clustered data, with standard deviations of 3.26 degrees in June and 3.75 degrees in December.
 
 ### June Temperatures
-![June_temps](https://user-images.githubusercontent.com/83256206/137044528-c86189e3-de1f-4001-bb8b-b8063292fe6e.png)
+![June_temp](https://user-images.githubusercontent.com/102105537/169670058-6d1bfa3f-6824-4843-b992-d6827be732e3.png)
 
 
 
 
 ### December Temperatures
+![December_temp](https://user-images.githubusercontent.com/102105537/169670083-54028204-6293-4c31-872b-f0455e2077ac.png)
 
-![dec_temps](https://user-images.githubusercontent.com/83256206/137044659-84180716-50c6-4b4f-81d1-7bc1f5822074.png)
 
 ## Summary
 
-In summary, it can be concluded that Hawaii is an excellent place to open up a surf and shake shack based on the temperature data.  Temperatures are mild and warm year round with averages of about 75 degrees at the height of Summer and about 71 degrees at the depths of Winter.  This means that locals and tourists will be at the beaches surfing and relaxing year-round, providing a consistent customer base for our business.
+Based off of the temperature data provided, it can be concluded that Hawaii is an excellent place to open our new business venture. The temperatures are pleasant and warm year round with averages of about 75 degrees at the height of summer and about 71 degrees at the depths of winter.  It is a belief that locals and tourists will be at the beaches enjoying these conditions and relaxing year-round. This will in turn provided our business with a consistent customer base.
 
-Temperature, however, is not the only weather factor that I need to keep in mind while performing weather analysis on our potential vendor location.  Excessive rain can prevent people from heading out to the beach.  I have executed queries for the months of June and December that plot the precipitation recordings at our target location (station USC00519281) in order to ensure we are indeed making the correct data-based decision for our venture location.
+Another factor to keep in mind when looking at potential vendor locations is rain. THe possibility of excessive rain can prevent people from heading out to the beach. There were queries created for the months of June and December. These quereies showed the precipitation recordings at our target location (station USC00519281).  This data will be used in order to ensure we are making the correct data-based decision for our venture location.
 
 
 ### Conclusion
