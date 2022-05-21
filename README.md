@@ -8,10 +8,10 @@ While on vacation in Hawaii, we developed a passion for surfing and would want t
 
 # Objectives
 
-   ->Determine the most important statistics data for the month of June.
-   ->Determine the most important statistics information for the month of December.
-   ->Compare and contrast your findings from June to December.
-   ->Make two or three recommendations for additional investigation.
+-  Determine the most important statistics data for the month of June.
+-  Determine the most important statistics information for the month of December.
+-  Compare and contrast your findings from June to December.
+-  Make two or three recommendations for additional investigation.
 
 
 ## Observations
